@@ -17,12 +17,12 @@ The idea came from the UX Graz organizers, Johannes, Ani, Kornelia and me (Jakob
 
 ## How to play
 
-- Everyone draws 10 white answer cards.
+- Everyone draws 7 white answer cards.
 - The person who most recently sat through a usability test is the first **Card Czar**. They draw a black prompt card and read it out loud.
-- Everyone else picks the white card from their hand that fits best (or worst) and hands it to the Card Czar face down. If the prompt says **Pick 2**, play two cards.
+- Everyone else picks the white card from their hand that fits best (or worst) and hands it to the Card Czar face down. If the prompt asks for 2 cards, play two cards.
 - The Card Czar shuffles the answers, reads each one out together with the prompt, and picks a favourite.
 - Whoever played the winning card keeps the black card as a point.
-- Everyone draws back up to 10 cards, and the Card Czar role moves to the next person on the left.
+- Everyone draws back up to 7 cards, and the Card Czar role moves to the next person on the left.
 - Play until you get bored or the pizza arrives. Most black cards wins.
 
 House rules are very welcome. Make up your own.
