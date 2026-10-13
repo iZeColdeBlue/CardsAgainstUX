@@ -1,4 +1,4 @@
-# Cards Against UX - UX Graz Edition
+# Cards Against UX
 
 A party card game about the everyday joys and pains of UX work, made by the [UX Graz](https://www.meetup.com/uxgraz) community.
 
